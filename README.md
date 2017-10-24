@@ -1,2 +1,2 @@
-# HW-Wireframe
-easier-homework-assignment
+# Wireframe
+Build a web design skeleton using HTML/CSS
